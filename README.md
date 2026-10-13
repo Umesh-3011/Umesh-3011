@@ -133,24 +133,35 @@ A scalable Playwright + TypeScript automation framework covering:
 👉 More automation projects coming soon.
 
 ---
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umeshms3011&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshms3011&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Umesh-3011&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Umesh's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-3011&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Umesh's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
+
 
 ## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/umesh-ms-1a4ba91a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:umeshms3011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="tel:+919663648890">
+    <img src="https://img.shields.io/badge/Phone-Contact-green?style=for-the-badge&logo=phone" alt="Phone"/>
   </a>
 </p>
 
