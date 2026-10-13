@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Umesh M S
 
-### 🧪 Test Engineer | QA Automation | SDET
+### Test Engineer | QA Automation | SDET
 
-I'm a **Test Engineer with 2.5+ years of experience** in manual and automation testing, currently working with **Playwright (TypeScript)** and building reliable, maintainable test automation.
+I'm a **Automation Test Engineer with 2.8 years of experience** in manual and automation testing, currently working with **Playwright (TypeScript)** and building reliable, maintainable test automation.
 
 I enjoy finding bugs before users do, automating repetitive work, and continuously improving the software testing process. 🚀
 
@@ -162,20 +162,3 @@ A scalable Playwright + TypeScript automation framework covering:
 
 
 
-
--## Hi there 👋
-
-<!--
-**Umesh-3011/Umesh-3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
